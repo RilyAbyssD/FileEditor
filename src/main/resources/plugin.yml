@@ -1,0 +1,10 @@
+name: FileEditor
+version: '${project.version}'
+main: rilyabyss.fileeditor.FileEditor
+api-version: 1.17
+commands:
+  file:
+    aliases: [f]
+    description: Command description
+    permission: OP
+    usage: Command usage
